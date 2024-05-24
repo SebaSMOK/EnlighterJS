@@ -1,10 +1,6 @@
-.settings*
-.idea/*
-.project
-.credentials*
-gfx/*
-PublicHtml/*
-node_modules*
-.tmp*
-intern_*
+.credentials/*
+node_modules/*
+.tmp/*
 .hidden/*
+PublicHtml/*
+Development.html
